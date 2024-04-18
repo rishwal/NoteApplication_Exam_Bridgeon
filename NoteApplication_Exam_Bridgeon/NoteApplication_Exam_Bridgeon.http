@@ -1,0 +1,6 @@
+@NoteApplication_Exam_Bridgeon_HostAddress = http://localhost:5244
+
+GET {{NoteApplication_Exam_Bridgeon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
